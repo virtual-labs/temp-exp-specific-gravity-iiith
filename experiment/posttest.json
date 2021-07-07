@@ -1,0 +1,22 @@
+{
+	"version": 2.0,
+	"questions": [
+		{
+			"question": "1. For determining the specific gravity of soil solids, using a pycnometer of 500 cc, the following data is available: Weight of dry empty pycnometer(W<sub>1</sub>) = 125 g; Weight of dried soil and pycnometer(W<sub>2</sub>) = 500 g; Weight of dried soil and distilled water filled to the top of the pycnometer(W<sub>3</sub>) = 850 g. Determine the specific gravity of the soil.",
+			"answers": {
+				"a": "2.0",
+				"b": "2.25",
+				"c": "2.50",
+				"d": "2.75"
+			},
+			"explanations": {
+				"a": "First we determine the weight of the water alone from W3 by subtracting W2 from it. Next, we find the volume of this water by taking water density(d) to be 1 g/cc in the formula: Volume, V = Mass(m) / Density(d). Then we find the volume of water same as the volume of soil by subtracting the previously found water volume from the total pycnometer volume. Again we use the density formula to convert this volume to mass thus giving us the mass of water occupied by same volume of soil. We also determine the mass of soil alone by computing W2 - W1. Finally, we apply the formula: Specific Gravity = Weight of soil / Weight of water of same volume.",
+				"b": "First we determine the weight of the water alone from W3 by subtracting W2 from it. Next, we find the volume of this water by taking water density(d) to be 1 g/cc in the formula: Volume, V = Mass(m) / Density(d). Then we find the volume of water same as the volume of soil by subtracting the previously found water volume from the total pycnometer volume. Again we use the density formula to convert this volume to mass thus giving us the mass of water occupied by same volume of soil. We also determine the mass of soil alone by computing W2 - W1. Finally, we apply the formula: Specific Gravity = Weight of soil / Weight of water of same volume.",
+				"c": "First we determine the weight of the water alone from W3 by subtracting W2 from it. Next, we find the volume of this water by taking water density(d) to be 1 g/cc in the formula: Volume, V = Mass(m) / Density(d). Then we find the volume of water same as the volume of soil by subtracting the previously found water volume from the total pycnometer volume. Again we use the density formula to convert this volume to mass thus giving us the mass of water occupied by same volume of soil. We also determine the mass of soil alone by computing W2 - W1. Finally, we apply the formula: Specific Gravity = Weight of soil / Weight of water of same volume.",
+				"d": "First we determine the weight of the water alone from W3 by subtracting W2 from it. Next, we find the volume of this water by taking water density(d) to be 1 g/cc in the formula: Volume, V = Mass(m) / Density(d). Then we find the volume of water same as the volume of soil by subtracting the previously found water volume from the total pycnometer volume. Again we use the density formula to convert this volume to mass thus giving us the mass of water occupied by same volume of soil. We also determine the mass of soil alone by computing W2 - W1. Finally, we apply the formula: Specific Gravity = Weight of soil / Weight of water of same volume."
+			},
+			"difficulty": "advanced",
+			"correctAnswer": "c"
+		}
+	]
+}
